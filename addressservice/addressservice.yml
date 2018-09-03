@@ -4,3 +4,4 @@ logging:
     com.netflix: WARN
     org.springframework.web: WARN
     com.thoughtmechanix: WARN
+message: Hello I from server
