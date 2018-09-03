@@ -4,4 +4,4 @@ logging:
     com.netflix: WARN
     org.springframework.web: WARN
     com.thoughtmechanix: WARN
-message: Value changed again!
+message: I am not good at all with these changes!
